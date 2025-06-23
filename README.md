@@ -18,8 +18,7 @@ This Streamlit web app analyzes online shopping behavior and predicts session ab
 👉 [Click here to try the app!](https://shopping-session-abandonment-eda.streamlit.app/)
 
  ## 💠Snapshot of the WebApp
-<img src=![image](https://github.com/user-attachments/assets/83cce99e-57f3-44b3-abbe-e54f5845bf8f)
- width="300" height="200">
+<img src="https://github.com/aadyasingh2/shopping-session-abandonment/blob/main/Screenshot%202025-06-24%20010058.png" width="300" height="200">
 
 
  
