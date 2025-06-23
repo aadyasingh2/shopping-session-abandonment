@@ -3,10 +3,9 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 
-st.set_page_config(page_title="Shopping Session Analyzer", layout="centered")
-st.title("Shopping Session Abandonment Analyzer")
-st.markdown("Analyze how users behave in shopping sessions and why they abandon carts.")
-
+st.markdown("<h1 style='font-size: 70px; color: #edddd4;'>🛍️ Shopping Session Abandonment EDA</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='font-size: 25px; color: #edddd4;'>Analyze how users behave in shopping sessions and why they abandon carts.", unsafe_allow_html=True)
+   
 df=pd.read_csv("shopping_abandonment.csv")
 total=df.shape[0]
 abandoned=df[df['abandoned']==1].shape[0]
