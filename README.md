@@ -14,3 +14,6 @@ This Streamlit web app analyzes online shopping behavior and predicts session ab
 - Python, Pandas, Plotly
 - Streamlit (App Deployment)
 
+## 🌐 Live Demo
+👉 [Click here to try the app!](https://shopping-session-abandonment-eda.streamlit.app/)
+
